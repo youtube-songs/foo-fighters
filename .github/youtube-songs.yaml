@@ -1,0 +1,589 @@
+title: Foo Fighters
+
+'Foo Fighters':
+    'This Is a Call':
+        id: OFdzH_gFYNs
+        live: Walker Air Force Base, Roswell, 2005
+    "I'll Stick Around":
+        id: -m4kSO0R0k0
+        live: Concert Hall, Toronto, 1996
+    'Big Me':
+        id: k93wOxWlHgY
+        live: Pantages Theatre, Los Angeles, 2006
+    'Alone + Easy Target':
+        id: PhrQheXkJq0
+        live: Concert Hall, Toronto, 1996
+    'Good Grief':
+        id: mQXSC5Y3bS4
+        live: Concert Hall, Toronto, 1996
+    'Floaty':
+        id: xkCAMdeNwfQ
+        live: Wisseloord Studio, Hilversum, 1999
+    'Weenie Beenie':
+        id: rtFXT0UKEnA
+        live: Concert Hall, Toronto, 1996
+    'Oh, George':
+        id: 76nIMVv9EyY
+    'For All the Cows':
+        id: byydlC9H0wM
+        live: Amsterdam, 2000
+    'X-Static':
+        id: 2ANXDgIR090
+    'Wattershed':
+        id: cV3jI9jX7rM
+        live: Concert Hall, Toronto, 1996
+    'Exhausted':
+        id: 22F9uhoPrYw
+        live: Concert Hall, Toronto, 1996
+    'Winnebago':
+        id: rPZloRhI8vg
+        live: Concert Hall, Toronto, 1996
+        source: B-side of "This Is a Call"
+    'Podunk':
+        id: 2Whdq9DAxKo
+        live: Concert Hall, Toronto, 1996
+        source: B-side of "This Is a Call"
+    'How I Miss You':
+        id: 4nL2805AfK0
+        live: Concert Hall, Toronto, 1996
+        source: B-side of "I'll Stick Around"
+    'Ozone':
+        id: cy_dhGA9-vo
+        cover: Ace Frehley
+        source: B-side of "I'll Stick Around"
+    'Gas Chamber':
+        id: NRBThpp5RVE
+        cover: Angry Samoans
+        live: Concert Hall, Toronto, 1996
+        source: B-side of "Big Me"
+    'Butterflies':
+        id: VWyyWgLHD4w
+        live: Concert Hall, Toronto, 1996
+        source: '"Songs in the Key of X"'
+
+'The Colour And The Shape':
+    'Doll':
+        id: 0I601JImgHk
+    'Monkey Wrench':
+        id: ExJJmAt8YhI
+        live: Wembley Stadium, London, 2008
+    'Hey, Johnny Park!':
+        id: _axQz7WCU90
+    'My Poor Brain':
+        id: 4Xu8mxTmkh8
+        live: Concert Hall, Toronto, 1996
+    'Wind Up':
+        id: gAhv979WI9I
+    'Up In Arms':
+        id: -nQXu9cBAYk
+        live: Concert Hall, Toronto, 1996
+    'My Hero':
+        id: V_DI4mhrY64
+    'See You':
+        id: CRQwH76oxKY
+    'Enough Space':
+        id: QMkJCMxUVeo
+        live: Concert Hall, Toronto, 1996
+    'February Stars':
+        id: FD-JXN6EpNc
+        live: Hollywood, 2006
+    'Everlong':
+        id: NWU33fvPxd0
+        live: Wembley Stadium, London, 2008
+    'Walking After You':
+        id: 782oo-LgLWw
+        live: Hollywood, 2006
+    'New Way Home':
+        id: IipJAYA1p4I
+    'The Colour And The Shape':
+        id: -HrL_B7DaTg
+        source: B-side of "Monkey Wrench"
+    'Down in the Park':
+        id: Oo334iVRmbs
+        cover: Tubeway Army
+        live: Concert Hall, Toronto, 1996
+        source: B-side of "Monkey Wrench"
+    'Drive Me Wild':
+        id: CbJvLVHAMRk
+        cover: Vanity 6
+        source: B-side of "Everlong"
+    'Requiem':
+        id: p4KZt7iwBEw
+        cover: Killing Joke
+        live: BBC, London, 1997
+        source: B-side of "Everlong"
+    'Baker Street':
+        id: dtUqu1vCaFw
+        cover: Gerry Rafferty
+        source: B-side of "My Hero"
+    'Dear Lover':
+        id: fKPt3a11UdI
+        source: B-side of "My Hero"
+    'A320':
+        id: RydIyPxEIlo
+        source: Godzilla soundtrack
+
+'There Is Nothing Left to Lose':
+    'Stacked Actors':
+        id: 625a8u8iD5E
+        live: Wembley Stadium, London, 2008
+    'Breakout':
+        id: X0eWQexYUSY
+        live: Wembley Stadium, London, 2008
+    'Learn to Fly':
+        id: y3FNW6S2XAM
+        live: Wembley Stadium, London, 2008
+    'Gimme Stitches':
+        id: A1OUAAcK2Sg
+    'Generator':
+        id: BSURNJDs0x0
+        live: Lollapalooza Brazil, 2012
+    'Aurora':
+        id: GMe05dO816k
+        live: Goat Island, Sydney, 2011
+    'Live-In Skin':
+        id: E9K4S55BBJw
+    'Next Year':
+        id: oDO9Id2gn2k
+        live: Hollywood, 2006
+    'Headwires':
+        id: Z9lB3P8hosk
+    "Ain't It the Life":
+        id: U7fUNX2XgwM
+        live: Wisseloord Studio, Hilversum, 1999
+    'M.I.A.':
+        id: J_sCvUSY448
+    'Iron and Stone':
+        id: TgL-LEjZU-8
+        source: B-side of "Learn to Fly"
+    'Have a Cigar':
+        id: C9OU_2Yfo8A
+        cover: Pink Floyd
+        source: B-side of "Learn to Fly"
+    'Make a Bet':
+        id: yfckCM-1Q3M
+        source: B-side of "Learn to Fly"
+    'Fraternity':
+        id: Dl442p7SfCM
+        live: BBC Radio 1, Glasgow, 1999
+        source: B-side of "Generator"
+
+'One by One':
+    'All My Life':
+        id: aiy5W3z4SGE
+        live: Wembley Stadium, London, 2008
+    'Low':
+        id: ySlZdASmGCM
+    'Have It All':
+        id: 5L09yCEtWi8
+    'Times Like These':
+        id: cvCUXXsP5WE
+        live: Wembley Stadium, London, 2008
+    'Disenchanted Lullaby':
+        id: vddgYdUPfWw
+    'Tired of You':
+        id: 4XdITb3wsHU
+        live: St. Gallen, 2005
+    'Halo':
+        id: kF7rRQOxuF8
+    'Lonely as You':
+        id: NagnivoIoYk
+    'Overdrive':
+        id: T5BM4QTyRf8
+    'Burn Away':
+        id: 0ksJgUVudcg
+    'Come Back':
+        id: s9Sgvf_vlDc
+    'Walking a Line':
+        id: ojwSkT8sruM
+        source: limited edition
+    'Sister Europe':
+        id: PdUZfQw7ZJA
+        cover: The Psychedelic Furs
+        source: B-side of "All My Life"
+    'Win or Lose':
+        id: xWcjd2iyDwQ
+        source: B-side of "All My Life"
+    'Danny Says':
+        id: hZS2Mo4XK_4
+        cover: Ramones
+        source: B-side of "All My Life"
+    'The One':
+        id: 0t4rWb1tRuo
+        source: B-side of "All My Life" / "Orange County" soundtrack
+    'A Life of Illusion':
+        id: XmUaJfA9zx0
+        cover: Joe Walsh
+        source: B-side of "Times Like These"
+    'Planet Claire':
+        id: enDEbO4NbNU
+        cover: The B-52s
+        live: Supper Club, New York, 2002
+        source: B-side of "Times Like These"
+    'Normal':
+        id: IiSKTSvzU4s
+        source: B-side of "Times Like These"
+    'Never Talking to You Again':
+        id: hP_ZoW_DhJ8
+        cover: Hüsker Dü
+        live: Colour Line Arena, Hamburg, 2002
+        source: B-side of "Low"
+    'Darling Nikki':
+        id: CdHAPycoFk4
+        cover: Prince
+        source: B-side of "Have It All"
+
+'In Your Honor':
+    'In Your Honor':
+        id: ThMZEAMkIc8
+        live: Walker Air Force Base, Roswell, 2005
+    'No Way Back':
+        id: wCe2I_Cj1Mg
+        live: Wembley Stadium, London, 2008
+    'Best of You':
+        id: qnIwCsQYoEc
+        live: Wembley Stadium, London, 2008
+    'DOA':
+        id: 25bP1u-zREE
+    'Hell':
+        id: i4g4n4zbQz8
+    'The Last Song':
+        id: uncV5VEQ8_c
+        live: Walker Air Force Base, Roswell, 2005
+    'Free Me':
+        id: W0-PEFFsGB0
+        live: Walker Air Force Base, Roswell, 2005
+    'Resolve':
+        id: ApqxWzx6uHQ
+    'The Deepest Blues Are Black':
+        id: MQpqHver0M0
+    'End Over End':
+        id: WZAtggwsSS4
+    'Still':
+        id: 6hpSVF1FaHo
+    'What If I Do?':
+        id: lTmJrBmiFzY
+    'Miracle':
+        id: cuXNGIM-It4
+    'Another Round':
+        id: iKJLBhEmO04
+        live: Hollywood, 2006
+    'Friend of a Friend':
+        id: 6AP0JV1lUvU
+        live: Pantages Theatre, Los Angeles, 2006
+    'Over and Out':
+        id: Jc09RB7ZA3s
+        live: Hollywood, 2006
+    'On the Mend':
+        id: Nkoq9JoUY7w
+    'Virginia Moon':
+        id: plXjq-80zb0
+    'Cold Day in the Sun':
+        id: Vd4UpzdiZDM
+        live: Wembley Stadium, London, 2008
+    'Razor':
+        id: aLxlXF2LTuw
+        live: Pantages Theatre, Los Angeles, 2006
+    'The Sign':
+        id: V-0Ti831M-w
+        source: vinyl edition
+    "I'm in Love with a German Film Star":
+        id: L_ZRN1_ysNI
+        cover: The Passions
+        source: B-side of "Best of You"
+    'FFL':
+        id: ShVsdw0VJPU
+        source: B-side of "Best of You"
+    'Kiss the Bottle':
+        id: xn-GrEdlG6s
+        cover: Jawbreaker
+        source: B-side of "Best of You"
+    'Spill':
+        id: 2rbogE-881A
+        source: B-side of "Best of You"
+    'I Feel Free':
+        id: THSM6siFmA4
+        cover: Cream
+        source: B-side of "DOA"
+    'Skin and Bones':
+        id: slVR7h8OnRw
+        live: Wembley Stadium, London, 2008
+        source: B-side of "DOA"
+    'World':
+        id: 29Aq9aLFWio
+        source: B-side of "Resolve"
+    'Born on the Bayou':
+        id: 1F_sMpY-opw
+        cover: Creedence Clearwater Revival
+        source: B-side of "Resolve"
+    'Marigold':
+        id: b4zvxdkJpyw
+        live: Wembley Stadium, London, 2008
+        source: '"Skin and Bones" live album'
+    'Shake Your Blood':
+        id: nfCcKWfIvFE
+        live: iTunes Festival, London, 2011
+        source: '"Skin and Bones" live album'
+    'Tie Your Mother Down':
+        id: fAYo8xzsqIA
+        cover: Queen
+        live: Hyde Park, London, 2006
+        source: '"Skin and Bones" live album'
+
+'Echoes, Silence, Patience & Grace':
+    'The Pretender':
+        id: KvrN6f95GOw
+        live: Wembley Stadium, London, 2008
+    'Let It Die':
+        id: cXT7DBeVxA4
+    'Erase/Replace':
+        id: zAnd5RRwOmE
+    'Long Road to Ruin':
+        id: EZjhD2Qp0hE
+        live: Wembley Stadium, London, 2008
+    'Come Alive':
+        id: TBSQISK5FdY
+    'Stranger Things Have Happened':
+        id: GWaQTpv-R-c
+    'Cheer Up, Boys (Your Make Up Is Running)':
+        id: 7zfpklEa32Q
+        live: Wembley Stadium, London, 2008
+    "Summer's End":
+        id: xPNkxL3CTPU
+    'Ballad of the Beaconsfield Miners':
+        id: tx7qwV9Irgg
+    'Statues':
+        id: gcKWwugvldI
+    'But, Honestly':
+        id: 7DtCdO6jfG0
+    'Home':
+        id: a5wZ1rD8Gn8
+        live: Studio 606 West, Northridge, 2007
+    'Once & For All':
+        id: eGuDmAAWFsU
+        source: Japanese edition
+    'If Ever':
+        id: A-vg_HzWnPY
+        source: B-side of "The Pretender"
+    "Bangin'":
+        id: u1H3iSu_bac
+        source: B-side of "The Pretender"
+    'Seda':
+        id: wrdAcO4OL30
+        source: B-side of "Long Road to Ruin"
+    'Keep the Car Running':
+        id: ZuKobNAYmjs
+        cover: Arcade Fire
+        live: BBC Radio 1, Brighton, 2007
+        source: B-side of "Long Road to Ruin"
+    'Holiday in Cambodia':
+        id: RYDOMLn9gGI
+        cover: Dead Kennedys
+        live: MTV Video Music Awards, Las Vegas, 2007
+        source: B-side of "Long Road to Ruin"
+    'Band on the Run':
+        id: IvmpsVgq780
+        cover: Paul McCartney and Wings
+        source: B-side of "Cheer Up, Boys (Your Make Up Is Running)"
+    'Rock and Roll':
+        id: SbNVIPAABgw
+        cover: Led Zeppelin
+        live: Wembley Stadium, London, 2008
+        source: Live at Wembley Stadium
+    'Ramble On':
+        id: uBcVuN2Kr-s
+        cover: Led Zeppelin
+        live: Wembley Stadium, London, 2008
+        source: Live at Wembley Stadium
+    'Wheels':
+        id: sVMqXYjqB2I
+        live: Lollapalooza Chile, 2022
+        source: '"Greatest Hits" compilation album'
+    'Word Forward':
+        id: SQEX9Y34gG8
+        source: B-side of "Wheels"
+
+'Wasting Light':
+    'Bridge Burning':
+        id: PbdRBLabJWU
+    'Rope':
+        id: kbpqZT_56Ns
+    'Dear Rosemary':
+        id: 264oAenLETE
+    'White Limo':
+        id: cxenGuShEpA
+        live: Roundhouse, London, 2011
+    'Arlandria':
+        id: Rp6SwxUtfLI
+        live: iTunes Festival, London, 2011
+    'These Days':
+        id: -ks8KMwQWro
+        live: Madison Square Garden, 2021
+    'Back & Forth':
+        id: fnW66mnZ2lw
+    'A Matter of Time':
+        id: jKWue-pYLzM
+    'Miss the Misery':
+        id: So8pSJ9jn-c
+    'I Should Have Known':
+        id: 5cn6dKy1rIc
+    'Walk':
+        id: _77jIQxe1WY
+        live: iHeartRadio Theater, Burbank, 2015
+    'Better Off':
+        id: WKcoTW29PCU
+        source: deluxe version
+    'Young Man Blues':
+        id: aZAhQC7ZClI
+        cover: Mose Allison / The Who
+        live: Austin City Limits, Austin, 2008
+        source: '"Medium Rare" cover album'
+    'Bad Reputation':
+        id: 88g-SkgICV8
+        cover: Thin Lizzy
+        source: '"Medium Rare" cover album'
+    'This Will Be Our Year':
+        id: eDpbMKbIKvE
+        cover: The Zombies
+        source: '"Medium Rare" cover album'
+
+'Sonic Highways':
+    'Something from Nothing':
+        id: 0idxIK59ODA
+        live: iHeartRadio Theater, Burbank, 2015
+    'The Feast and the Famine':
+        id: c6fR_mp8gag
+    'Congregation':
+        id: 2ZNoV_9JRGQ
+        live: iHeartRadio Theater, Burbank, 2015
+    'What Did I Do? / God as My Witness':
+        id: II2qM619h94
+    'Outside':
+        id: dV7c6ThfXvs
+    'In the Clear':
+        id: qYzY25b_uek
+    'Subterranean':
+        id: Ze5hzWWBrEY
+    'I Am A River':
+        id: -IOs7w1dY0s
+    'Kids in America':
+        id: Ue5r4NpNF4s
+        cover: Kim Wilde
+        source: '"Songs from the Laundry Room" EP'
+    'Empty Handed':
+        id: Hsibn43DfxA
+        source: '"Songs from the Laundry Room" EP'
+    'Saint Cecilia':
+        id: XjBUBFKb5zY
+        source: '"Saint Cecilia" EP'
+    'Sean':
+        id: UySwFJVrurw
+        source: '"Saint Cecilia" EP'
+    'Savior Breath':
+        id: 0ZSY-3cwdGg
+        source: '"Saint Cecilia" EP'
+    'Iron Rooster':
+        id: h19xikSTRi8
+        source: '"Saint Cecilia" EP'
+    'The Neverending Sigh':
+        id: 0pH2d1OEqo8
+        source: '"Saint Cecilia" EP'
+
+'Concrete and Gold':
+    'T-Shirt':
+        id: SnBR8WzqoCM
+    'Run':
+        id: ifwc5xgI3QM
+    'Make It Right':
+        id: QUPfi-sFeRw
+    'The Sky Is a Neighborhood':
+        id: g8zVXbXpyb4
+        live: Madison Square Garden, 2021
+    'La Dee Da':
+        id: COSQ8A8iSbw
+    'Dirty Water':
+        id: 8RUHD3snV_k
+    'Arrows':
+        id: 0sdplr_vY4Q
+    'Happy Ever After (Zero Hour)':
+        id: W7_M8wh2FYw
+    'Sunday Rain':
+        id: k0jX8y53ceY
+    'The Line':
+        id: 8TsNkgW2ox0
+    'Concrete and Gold':
+        id: VGLXH9wqID0
+    'Soldier':
+        id: M1aUcIKL2FQ
+        source: 7-Inches For Planned Parenthood
+    'Run Rudolph Run':
+        id: 5KOuvC8eSO4
+        cover: Chuck Berry
+        source: Amazon Music Holiday Plays
+
+'Medicine at Midnight':
+    'Making a Fire':
+        id: kJ9YKVJjU1M
+        live: Studio 606, 2021
+    'Shame Shame':
+        id: CfupRahGBlE
+        live: Madison Square Garden, 2021
+    'Cloudspotter':
+        id: sFDGizcogb4
+    'Waiting on a War':
+        id: j8PJzZ_UYlo
+        live: The Tonight Show Starring Jimmy Fallon, 2021
+    'Medicine at Midnight':
+        id: PeFcpUxkYmg
+    'No Son of Mine':
+        id: 5MOF4usjJlk
+        live: Madison Square Garden, 2021
+    'Holding Poison':
+        id: 1x9_1QC5fTY
+    'Chasing Birds':
+        id: 1qYI-RtmYNI
+    'Love Dies Young':
+        id: eT_FJHM-Qhs
+    'You Should Be Dancing':
+        id: p4DeaXf1FzE
+        cover: Bee Gees
+        source: '"Hail Satin" album (as Dee Gees)'
+    'Night Fever':
+        id: rffCEMl9QuQ
+        cover: Bee Gees
+        source: '"Hail Satin" album (as Dee Gees)'
+    'Tragedy':
+        id: DKle2p9W5To
+        cover: Bee Gees
+        source: '"Hail Satin" album (as Dee Gees)'
+    'Shadow Dancing':
+        id: 7o5n5SpWEwQ
+        cover: Andy Gibb
+        source: '"Hail Satin" album (as Dee Gees)'
+    'More Than a Woman':
+        id: FtyKjVduqec
+        cover: Bee Gees
+        source: '"Hail Satin" album (as Dee Gees)'
+
+'But Here We Are':
+    'Rescued':
+        id: hgBqnHGXTUw
+        live: Glastonbury, 2023
+    'Under You':
+        id: seok6lO1n-8
+    'Hearing Voices':
+        id: 7dJTBdfY6-g
+    'But Here We Are':
+        id: 8HoKlqa5FCE
+    'The Glass':
+        id: RVpFu31xxWo
+    'Nothing At All':
+        id: D061lFsy5LI
+    'Show Me How':
+        id: idib1kDvPyM
+    'Beyond Me':
+        id: ixojSsgRLgc
+    'The Teacher':
+        id: 6MF6trC529M
+    'Rest':
+        id: 26Ofs8WrsYc
