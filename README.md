@@ -1,7 +1,5 @@
 # Foo Fighters
 
-:exclamation: Incorrect songs: "The Sky Is a Neighborhood" :exclamation:
-
 ### [Foo Fighters](https://www.youtube.com/watch_videos?title=Foo%20Fighters&video_ids=OFdzH_gFYNs,-m4kSO0R0k0,k93wOxWlHgY,PhrQheXkJq0,mQXSC5Y3bS4,xkCAMdeNwfQ,rtFXT0UKEnA,76nIMVv9EyY,byydlC9H0wM,2ANXDgIR090,cV3jI9jX7rM,22F9uhoPrYw,rPZloRhI8vg,2Whdq9DAxKo,4nL2805AfK0,cy_dhGA9-vo,NRBThpp5RVE,VWyyWgLHD4w)
 1. :fire: "[This Is a Call](https://www.youtube.com/watch?v=OFdzH_gFYNs)" (live from Walker Air Force Base, Roswell, 2005)
 1. :fire: "[I'll Stick Around](https://www.youtube.com/watch?v=-m4kSO0R0k0)" (live from Concert Hall, Toronto, 1996)
@@ -177,11 +175,11 @@
 1. :cd: "[Iron Rooster](https://www.youtube.com/watch?v=h19xikSTRi8)" (from "Saint Cecilia" EP)
 1. :cd: "[The Neverending Sigh](https://www.youtube.com/watch?v=0pH2d1OEqo8)" (from "Saint Cecilia" EP)
 
-### [Concrete and Gold](https://www.youtube.com/watch_videos?title=Concrete%20and%20Gold&video_ids=SnBR8WzqoCM,ifwc5xgI3QM,QUPfi-sFeRw,g8zVXbXpyb4,COSQ8A8iSbw,8RUHD3snV_k,0sdplr_vY4Q,W7_M8wh2FYw,k0jX8y53ceY,8TsNkgW2ox0,VGLXH9wqID0,M1aUcIKL2FQ,5KOuvC8eSO4)
+### [Concrete and Gold](https://www.youtube.com/watch_videos?title=Concrete%20and%20Gold&video_ids=SnBR8WzqoCM,ifwc5xgI3QM,QUPfi-sFeRw,4nB48tYWoSM,COSQ8A8iSbw,8RUHD3snV_k,0sdplr_vY4Q,W7_M8wh2FYw,k0jX8y53ceY,8TsNkgW2ox0,VGLXH9wqID0,M1aUcIKL2FQ,5KOuvC8eSO4)
 1. :cd: "[T-Shirt](https://www.youtube.com/watch?v=SnBR8WzqoCM)"
 1. :cd: "[Run](https://www.youtube.com/watch?v=ifwc5xgI3QM)"
 1. :cd: "[Make It Right](https://www.youtube.com/watch?v=QUPfi-sFeRw)"
-1. :fire: "[The Sky Is a Neighborhood](https://www.youtube.com/watch?v=g8zVXbXpyb4)" (live from Madison Square Garden, 2021)
+1. :fire: "[The Sky Is a Neighborhood](https://www.youtube.com/watch?v=4nB48tYWoSM)" (live from London, 2018)
 1. :cd: "[La Dee Da](https://www.youtube.com/watch?v=COSQ8A8iSbw)"
 1. :cd: "[Dirty Water](https://www.youtube.com/watch?v=8RUHD3snV_k)"
 1. :cd: "[Arrows](https://www.youtube.com/watch?v=0sdplr_vY4Q)"
