@@ -141,13 +141,13 @@
 1. :fire: "[Wheels](https://www.youtube.com/watch?v=sVMqXYjqB2I)" (live from Lollapalooza Chile, 2022, from "Greatest Hits" compilation album)
 1. :cd: "[Word Forward](https://www.youtube.com/watch?v=SQEX9Y34gG8)" (from B-side of "Wheels")
 
-### [Wasting Light](https://www.youtube.com/watch_videos?title=Wasting%20Light&video_ids=PbdRBLabJWU,kbpqZT_56Ns,264oAenLETE,cxenGuShEpA,Rp6SwxUtfLI,-ks8KMwQWro,fnW66mnZ2lw,jKWue-pYLzM,So8pSJ9jn-c,5cn6dKy1rIc,_77jIQxe1WY,WKcoTW29PCU,aZAhQC7ZClI,88g-SkgICV8,eDpbMKbIKvE)
+### [Wasting Light](https://www.youtube.com/watch_videos?title=Wasting%20Light&video_ids=PbdRBLabJWU,kbpqZT_56Ns,264oAenLETE,cxenGuShEpA,Rp6SwxUtfLI,-Sfw7GLl7xM,fnW66mnZ2lw,jKWue-pYLzM,So8pSJ9jn-c,5cn6dKy1rIc,_77jIQxe1WY,WKcoTW29PCU,aZAhQC7ZClI,88g-SkgICV8,eDpbMKbIKvE)
 1. :cd: "[Bridge Burning](https://www.youtube.com/watch?v=PbdRBLabJWU)"
 1. :cd: "[Rope](https://www.youtube.com/watch?v=kbpqZT_56Ns)"
 1. :cd: "[Dear Rosemary](https://www.youtube.com/watch?v=264oAenLETE)"
 1. :fire: "[White Limo](https://www.youtube.com/watch?v=cxenGuShEpA)" (live from Roundhouse, London, 2011)
 1. :fire: "[Arlandria](https://www.youtube.com/watch?v=Rp6SwxUtfLI)" (live from iTunes Festival, London, 2011)
-1. :fire: "[These Days](https://www.youtube.com/watch?v=-ks8KMwQWro)" (live from Madison Square Garden, 2021)
+1. :fire: "[These Days](https://www.youtube.com/watch?v=-Sfw7GLl7xM)" (live from Reading, 2012)
 1. :cd: "[Back & Forth](https://www.youtube.com/watch?v=fnW66mnZ2lw)"
 1. :cd: "[A Matter of Time](https://www.youtube.com/watch?v=jKWue-pYLzM)"
 1. :cd: "[Miss the Misery](https://www.youtube.com/watch?v=So8pSJ9jn-c)"
@@ -175,11 +175,11 @@
 1. :cd: "[Iron Rooster](https://www.youtube.com/watch?v=h19xikSTRi8)" (from "Saint Cecilia" EP)
 1. :cd: "[The Neverending Sigh](https://www.youtube.com/watch?v=0pH2d1OEqo8)" (from "Saint Cecilia" EP)
 
-### [Concrete and Gold](https://www.youtube.com/watch_videos?title=Concrete%20and%20Gold&video_ids=SnBR8WzqoCM,ifwc5xgI3QM,QUPfi-sFeRw,4nB48tYWoSM,COSQ8A8iSbw,8RUHD3snV_k,0sdplr_vY4Q,W7_M8wh2FYw,k0jX8y53ceY,8TsNkgW2ox0,VGLXH9wqID0,M1aUcIKL2FQ,5KOuvC8eSO4)
+### [Concrete and Gold](https://www.youtube.com/watch_videos?title=Concrete%20and%20Gold&video_ids=SnBR8WzqoCM,ifwc5xgI3QM,QUPfi-sFeRw,eMirow-QFYs,COSQ8A8iSbw,8RUHD3snV_k,0sdplr_vY4Q,W7_M8wh2FYw,k0jX8y53ceY,8TsNkgW2ox0,VGLXH9wqID0,M1aUcIKL2FQ,5KOuvC8eSO4)
 1. :cd: "[T-Shirt](https://www.youtube.com/watch?v=SnBR8WzqoCM)"
 1. :cd: "[Run](https://www.youtube.com/watch?v=ifwc5xgI3QM)"
 1. :cd: "[Make It Right](https://www.youtube.com/watch?v=QUPfi-sFeRw)"
-1. :fire: "[The Sky Is a Neighborhood](https://www.youtube.com/watch?v=4nB48tYWoSM)" (live from London, 2018)
+1. :cd: "[The Sky Is a Neighborhood](https://www.youtube.com/watch?v=eMirow-QFYs)"
 1. :cd: "[La Dee Da](https://www.youtube.com/watch?v=COSQ8A8iSbw)"
 1. :cd: "[Dirty Water](https://www.youtube.com/watch?v=8RUHD3snV_k)"
 1. :cd: "[Arrows](https://www.youtube.com/watch?v=0sdplr_vY4Q)"
@@ -190,13 +190,13 @@
 1. :cd: "[Soldier](https://www.youtube.com/watch?v=M1aUcIKL2FQ)" (from 7-Inches For Planned Parenthood)
 1. :cd: "[Run Rudolph Run](https://www.youtube.com/watch?v=5KOuvC8eSO4)" (Chuck Berry cover, from Amazon Music Holiday Plays)
 
-### [Medicine at Midnight](https://www.youtube.com/watch_videos?title=Medicine%20at%20Midnight&video_ids=kJ9YKVJjU1M,CfupRahGBlE,sFDGizcogb4,j8PJzZ_UYlo,PeFcpUxkYmg,5MOF4usjJlk,1x9_1QC5fTY,1qYI-RtmYNI,eT_FJHM-Qhs,p4DeaXf1FzE,rffCEMl9QuQ,DKle2p9W5To,7o5n5SpWEwQ,FtyKjVduqec)
+### [Medicine at Midnight](https://www.youtube.com/watch_videos?title=Medicine%20at%20Midnight&video_ids=kJ9YKVJjU1M,Mn6y3dsKTWU,sFDGizcogb4,j8PJzZ_UYlo,PeFcpUxkYmg,2gnvQWwwoTg,1x9_1QC5fTY,1qYI-RtmYNI,eT_FJHM-Qhs,p4DeaXf1FzE,rffCEMl9QuQ,DKle2p9W5To,7o5n5SpWEwQ,FtyKjVduqec)
 1. :fire: "[Making a Fire](https://www.youtube.com/watch?v=kJ9YKVJjU1M)" (live from Studio 606, 2021)
-1. :fire: "[Shame Shame](https://www.youtube.com/watch?v=CfupRahGBlE)" (live from Madison Square Garden, 2021)
+1. :cd: "[Shame Shame](https://www.youtube.com/watch?v=Mn6y3dsKTWU)"
 1. :cd: "[Cloudspotter](https://www.youtube.com/watch?v=sFDGizcogb4)"
 1. :fire: "[Waiting on a War](https://www.youtube.com/watch?v=j8PJzZ_UYlo)" (live from The Tonight Show Starring Jimmy Fallon, 2021)
 1. :cd: "[Medicine at Midnight](https://www.youtube.com/watch?v=PeFcpUxkYmg)"
-1. :fire: "[No Son of Mine](https://www.youtube.com/watch?v=5MOF4usjJlk)" (live from Madison Square Garden, 2021)
+1. :cd: "[No Son of Mine](https://www.youtube.com/watch?v=2gnvQWwwoTg)"
 1. :cd: "[Holding Poison](https://www.youtube.com/watch?v=1x9_1QC5fTY)"
 1. :cd: "[Chasing Birds](https://www.youtube.com/watch?v=1qYI-RtmYNI)"
 1. :cd: "[Love Dies Young](https://www.youtube.com/watch?v=eT_FJHM-Qhs)"
