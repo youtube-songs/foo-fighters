@@ -1,7 +1,5 @@
 # Foo Fighters
 
-:exclamation: Incorrect songs: "Generator" :exclamation:
-
 ### [Foo Fighters](https://www.youtube.com/watch_videos?title=Foo%20Fighters&video_ids=OFdzH_gFYNs,-m4kSO0R0k0,k93wOxWlHgY,PhrQheXkJq0,mQXSC5Y3bS4,xkCAMdeNwfQ,rtFXT0UKEnA,76nIMVv9EyY,byydlC9H0wM,2ANXDgIR090,cV3jI9jX7rM,22F9uhoPrYw,rPZloRhI8vg,2Whdq9DAxKo,4nL2805AfK0,cy_dhGA9-vo,NRBThpp5RVE,VWyyWgLHD4w)
 1. :fire: "[This Is a Call](https://www.youtube.com/watch?v=OFdzH_gFYNs)" (live from Walker Air Force Base, Roswell, 2005)
 1. :fire: "[I'll Stick Around](https://www.youtube.com/watch?v=-m4kSO0R0k0)" (live from Concert Hall, Toronto, 1996)
@@ -44,12 +42,12 @@
 1. :cd: "[Dear Lover](https://www.youtube.com/watch?v=fKPt3a11UdI)" (from B-side of "My Hero")
 1. :cd: "[A320](https://www.youtube.com/watch?v=RydIyPxEIlo)" (from Godzilla soundtrack)
 
-### [There Is Nothing Left to Lose](https://www.youtube.com/watch_videos?title=There%20Is%20Nothing%20Left%20to%20Lose&video_ids=625a8u8iD5E,X0eWQexYUSY,y3FNW6S2XAM,A1OUAAcK2Sg,BSURNJDs0x0,GMe05dO816k,E9K4S55BBJw,oDO9Id2gn2k,Z9lB3P8hosk,U7fUNX2XgwM,J_sCvUSY448,TgL-LEjZU-8,C9OU_2Yfo8A,yfckCM-1Q3M,Dl442p7SfCM)
+### [There Is Nothing Left to Lose](https://www.youtube.com/watch_videos?title=There%20Is%20Nothing%20Left%20to%20Lose&video_ids=625a8u8iD5E,X0eWQexYUSY,y3FNW6S2XAM,A1OUAAcK2Sg,9c-fgWbRR_4,GMe05dO816k,E9K4S55BBJw,oDO9Id2gn2k,Z9lB3P8hosk,U7fUNX2XgwM,J_sCvUSY448,TgL-LEjZU-8,C9OU_2Yfo8A,yfckCM-1Q3M,Dl442p7SfCM)
 1. :fire: "[Stacked Actors](https://www.youtube.com/watch?v=625a8u8iD5E)" (live from Wembley Stadium, London, 2008)
 1. :fire: "[Breakout](https://www.youtube.com/watch?v=X0eWQexYUSY)" (live from Wembley Stadium, London, 2008)
 1. :fire: "[Learn to Fly](https://www.youtube.com/watch?v=y3FNW6S2XAM)" (live from Wembley Stadium, London, 2008)
 1. :cd: "[Gimme Stitches](https://www.youtube.com/watch?v=A1OUAAcK2Sg)"
-1. :fire: "[Generator](https://www.youtube.com/watch?v=BSURNJDs0x0)" (live from Lollapalooza Brazil, 2012)
+1. :fire: "[Generator](https://www.youtube.com/watch?v=9c-fgWbRR_4)" (live from London, 2000)
 1. :fire: "[Aurora](https://www.youtube.com/watch?v=GMe05dO816k)" (live from Goat Island, Sydney, 2011)
 1. :cd: "[Live-In Skin](https://www.youtube.com/watch?v=E9K4S55BBJw)"
 1. :fire: "[Next Year](https://www.youtube.com/watch?v=oDO9Id2gn2k)" (live from Hollywood, 2006)
